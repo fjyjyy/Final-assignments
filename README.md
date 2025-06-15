@@ -3,7 +3,7 @@
 ## 生成数据可视图所用的大模型提示词
 ![image](https://github.com/user-attachments/assets/37800d74-ac0c-44de-aeec-4eddc486cf9b)
 ## 生成报告文字所用的大模型提示词
-### 请生成一份名为“基于人工智能职位数据的多维度分析未来趋势”不少于2000字的数据分析报告，先别写，接下来我要上传我所生成到的数据可视化图表
+### 请生成一份名为“基于人工智能职位数据的多维度分析未来趋势”不少于2000字的分析报告，先别写，接下来我要上传我所生成到的数据可视化图表
 
 # 第二章：爬取数据的过程
 
@@ -20,7 +20,7 @@
 
 ![image](https://github.com/user-attachments/assets/90ba6daf-297f-4f53-9f3d-7f818d1a00f4)
 
-3.用这些数据来完成数据分析报告
+3.使用这些数据来生成可视化图表
 
 ![image](https://github.com/user-attachments/assets/4675de0d-a6ee-46f6-a040-fac4e5a6270b)
 ![image](https://github.com/user-attachments/assets/7ec99ac5-8e66-4542-aa93-f30d06e1b891)
